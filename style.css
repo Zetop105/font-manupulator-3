@@ -1,0 +1,29 @@
+.head{
+    font-size: 14px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 3px 3px 15px yellow;
+}
+
+.note{
+    font-size: 18px;
+}
+
+.footer{
+    font-size: 23px;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: chartreuse;
+    color: darkturquoise;
+    text-align: center;
+    line-height: 2;
+    word-spacing: 10px;
+    letter-spacing: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 3px 3px 9px red;
+}
+
+canvas{
+    border: 3px solid greenyellow;
+}
